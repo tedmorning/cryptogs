@@ -1,6 +1,6 @@
 # Cryptogs
 
-[<img src="https://cryptogs.io/screen.jpg">]
+<img src="https://cryptogs.io/screen.jpg">
 
 We extended the ERC-721 token standard to include the game of pogs!
 
